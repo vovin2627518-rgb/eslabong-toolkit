@@ -1,10 +1,10 @@
-# Eslabong 세이브 도구 2.1.0
+# Eslabong 세이브 도구 2.1.1
 
 원본 게임의 세이브 에디터와 선수 분석기를 하나의 실행기로 엽니다. 지오맨서는 저장값 편집만 지원하며, 알 수 없는 모드 클래스는 표시 전용으로 보존합니다. 이 저장소는 배포 파일과 안내 전용이며 소스 코드는 포함하지 않습니다.
 
 ## 다운로드와 실행
 
-[최신 릴리스](https://github.com/vovin2627518-rgb/eslabong-toolkit/releases/latest)의 `eslabong-toolkit-2.1.0.zip`을 새 폴더에 모두 풀고 `eslabong-toolkit.exe`를 실행하세요. `_internal` 폴더도 필요합니다. 첫 화면에서 `eslabong.exe`와 `eslabong.pck`가 있는 게임 폴더를 선택합니다.
+[최신 릴리스](https://github.com/vovin2627518-rgb/eslabong-toolkit/releases/latest)의 `eslabong-toolkit-2.1.1.zip`을 새 폴더에 모두 풀고 `eslabong-toolkit.exe`를 실행하세요. `_internal` 폴더도 필요합니다. 첫 화면에서 `eslabong.exe`와 `eslabong.pck`가 있는 게임 폴더를 선택합니다.
 
 ## 업데이트
 
